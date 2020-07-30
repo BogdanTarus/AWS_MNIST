@@ -2,3 +2,4 @@
 
 ## Create the architecture diagram
 
+![](.//media/image01.png)
