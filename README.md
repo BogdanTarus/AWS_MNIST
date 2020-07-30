@@ -2,4 +2,4 @@
 
 ## Create the architecture diagram (just to test github ONLY!!)
 
-![](.//media/image01.png)
+![](.//media/image01_v02.png)
